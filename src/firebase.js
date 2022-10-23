@@ -12,12 +12,6 @@ const firebaseConfig = {
   messagingSenderId: process.env.REACT_APP_MESSAGIN_ID,
   appId: process.env.REACT_APP_APP_ID,
   databaseURL:process.env.REACT_APP_DATABASE_URL,
-//   apiKey: "AIzaSyBdrcVuhSwHmxvbfpuWn-hz49wxxPAqWqU",
-//   authDomain: "nwitter-a3289.firebaseapp.com",
-//   projectId: "nwitter-a3289",
-//   storageBucket: "nwitter-a3289.appspot.com",
-//   messagingSenderId: "243377461640",
-//   appId: "1:243377461640:web:e812c0287fe8cdc573823d"
 };
 
 // Initialize Firebase
